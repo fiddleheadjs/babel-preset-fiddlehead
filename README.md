@@ -14,6 +14,6 @@ npm install babel-preset-fiddlehead --save-dev
 
 ```json
 {
-    "presets": ["babel-preset-fiddlehead]
+    "presets": ["babel-preset-fiddlehead"]
 }
 ```

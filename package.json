@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-fiddlehead",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Babel preset for Fiddlehead apps",
   "main": "index.js",
   "repository": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/CocCoc-Ad-Platform/babel-preset-fiddlehead#readme",
   "dependencies": {
+    "@babel/core": "^7.19.6",
     "@babel/plugin-transform-react-jsx": "^7.19.0",
     "@babel/preset-env": "^7.19.4",
     "babel-plugin-auto-import": "^1.1.0"

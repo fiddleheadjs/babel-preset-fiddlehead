@@ -1,11 +1,11 @@
 {
   "name": "babel-preset-fiddlehead",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Babel preset for Fiddlehead apps",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CocCoc-Ad-Platform/babel-preset-fiddlehead.git"
+    "url": "git+https://github.com/fiddleheadjs/babel-preset-fiddlehead.git"
   },
   "keywords": [
     "fiddlehead",
@@ -15,9 +15,9 @@
   "author": "quyettvq@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CocCoc-Ad-Platform/babel-preset-fiddlehead/issues"
+    "url": "https://github.com/fiddleheadjs/babel-preset-fiddlehead/issues"
   },
-  "homepage": "https://github.com/CocCoc-Ad-Platform/babel-preset-fiddlehead#readme",
+  "homepage": "https://github.com/fiddleheadjs/babel-preset-fiddlehead#readme",
   "dependencies": {
     "@babel/core": "^7.19.6",
     "@babel/plugin-transform-react-jsx": "^7.19.0",
